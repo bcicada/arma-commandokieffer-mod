@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="Second War Helmets">
+	<Package name="Patch">
+		<container name="Patch">
+			<Key ID="$str_swh_addonname">
+				<Original>Second War Helmets</Original>
+			</Key>
+			<Key ID="$str_swh_authorurl">
+				<Original>Second War Helmets</Original>
+			</Key>
+			<Key ID="$str_swh_authorname">
+				<Original>Noks</Original>
+			</Key>
+		</container>
+	</Package>
+	<Package name="Helmets">
+	
+		<container name="France">
+			<Key ID="$str_swh_francepristinename">
+				<Original>Pristine M15 Adrian</Original>
+				<English>Pristine M15 Adrian</English>
+				<French>M15 Adrian Neuf</French>
+				<German>... M15 Adrian</German>
+				<Russian>... M15 Adrian</Russian>
+			</Key>
+			<Key ID="$str_swh_francerustyname">
+				<Original>Rusty M15 Adrian</Original>
+				<English>Rusty M15 Adrian</English>
+				<French>M15 Adrian Rouillé</French>
+				<German>... M15 Adrian</German>
+				<Russian>... M15 Adrian</Russian>
+			</Key>
+			<Key ID="$str_swh_francedescription">
+				<Original>Rusty M15 Adrian</Original>
+				<English>Rusty M15 Adrian</English>
+				<French>M15 Adrian Rouillé</French>
+				<German>... M15 Adrian</German>
+				<Russian>... M15 Adrian</Russian>
+			</Key>
+			<Key ID="$str_swh_francedescriptionshort">
+				<Original>Rusty M15 Adrian</Original>
+				<English>Rusty M15 Adrian</English>
+				<French>M15 Adrian Rouillé</French>
+				<German>... M15 Adrian</German>
+				<Russian>... M15 Adrian</Russian>
+			</Key>
+		</container>
+		
+		<Container name="GB">
+			<Key ID="$str_swh_france_name">
+				<Original>yes</Original>
+				<English>yes</English>
+				<French>oui</French>
+				<German>ja</German>
+				<Russian>да</Russian>
+			</Key>
+		</Container>
+		
+		<Container name="Germany">
+			<Key ID="$str_swh_france_name">
+				<Original>yes</Original>
+				<English>yes</English>
+				<French>oui</French>
+				<German>ja</German>
+				<Russian>да</Russian>
+			</Key>
+		</Container>
+		
+		<Container name="Russia">
+			<Key ID="$str_swh_france_name">
+				<Original>yes</Original>
+				<English>yes</English>
+				<French>oui</French>
+				<German>ja</German>
+				<Russian>да</Russian>
+			</Key>
+		</Container>
+		
+		<Container name="USA">
+			<Key ID="$str_swh_france_name">
+				<Original>yes</Original>
+				<English>yes</English>
+				<French>oui</French>
+				<German>ja</German>
+				<Russian>да</Russian>
+			</Key>
+		</Container>
+	</Package>
+</Project>

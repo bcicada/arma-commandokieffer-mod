@@ -1,1 +1,0 @@
-prefix=ck\ck_vehicles\ck_jeepwillys

@@ -1,7 +1,0 @@
-this animate ["sunroof",1];
-
-this animate ["windshield",1];
-
-this animate ["fuelcan",1];
-
-this animate ["spare",1];

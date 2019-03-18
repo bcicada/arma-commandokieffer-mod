@@ -1,7 +1,0 @@
-animation recharge
-animation prise en main
-
-animation modes[] - ok
-mode safe
-
-recoilLegacy -> doit etre un array

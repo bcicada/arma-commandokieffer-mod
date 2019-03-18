@@ -1,7 +1,0 @@
-DT -> #(argb,8,8,3)color(0.5,0.5,0.5,0.5,DT)
-MC -> #(argb,8,8,3)color(0,0,0,0,MC)
-AS -> #(argb,8,8,3)color(0.75,0.75,0.75,1,AS)
-SMDI -> #(argb,8,8,3)color(1,0.15,1,0,SMDI)
-FRESNEL -> #(ai,64,64,1)fresnel(1.0,1.0)
-
-mirror -> #(argb,256,512,1)r2t(rendertarget0,1.0)

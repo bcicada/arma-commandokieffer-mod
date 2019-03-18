@@ -1,8 +1,0 @@
-Munitions : .303 British (7,7x56mm R)/ 8 mm Mauser (Chine)
-Longueur totale : 1,156 m
-Canon : 63,5 cm
-Masse (arme vide) : 10,2 kg
-Masse du chargeur plein : 1,05 kg
-Masse (arme chargée) : 11,25 kg
-Chargeur : 30 coups
-Cadence de tir théorique : 500 coups/min.
