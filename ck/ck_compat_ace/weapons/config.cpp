@@ -24,11 +24,11 @@ class cfgWeapons
 	class ck_smle_scope_w: ItemCore
 	{
 		ace_scopeZeroRange = 100;
-        ace_scopeHeightAboveRail = 3.8;
-        ace_scopeAdjust_vertical[] = {-4, 30};
-        ace_scopeAdjust_horizontal[] = {-6, 6};
-        ace_scopeAdjust_verticalIncrement = 0.1;
-        ace_scopeAdjust_horizontalIncrement = 0.1;
+		ace_scopeHeightAboveRail = 3.8;
+		ace_scopeAdjust_vertical[] = {-4, 30};
+		ace_scopeAdjust_horizontal[] = {-6, 6};
+		ace_scopeAdjust_verticalIncrement = 0.1;
+		ace_scopeAdjust_horizontalIncrement = 0.1;
 
 		class ItemInfo: InventoryOpticsItem_Base_F
 		{
