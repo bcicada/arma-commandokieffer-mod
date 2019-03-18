@@ -1,0 +1,17 @@
+#define _ARMA_
+
+ambient[] = {1,1,1,0};
+diffuse[] = {1,1,1,0;
+forcedDiffuse[] = {0.0,0.0,0.0,0.0};
+emmisive[] = {0.0,0.0,0.0,1.0};
+specular[] = {1,1,1,0.0};
+specularPower = 10.0;
+renderFlags[] = {"NoColorWrite"};
+PixelShaderID = "Glass";
+VertexShaderID = "Glass";
+
+class Stage1
+{
+	texture = "ck\ck_vehicles\ck_willys\data\env_chrome_co.paa";
+	uvSource = "none";
+};

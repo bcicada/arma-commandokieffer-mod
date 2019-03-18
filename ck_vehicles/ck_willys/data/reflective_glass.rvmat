@@ -1,0 +1,24 @@
+#define _ARMA_
+
+ambient[] = {1.0,1.0,1.0,1.0};
+diffuse[] = {1.0,1.0,1.0,1.0};
+forcedDiffuse[] = {0.0,0.0,0.0,0.0};
+emmisive[] = {0.0,0.0,0.0,1.0};
+specular[] = {1.0,1.0,1.0,0.0};
+specularPower = 2.4;
+renderFlags[] = {"noAlphaWrite"};
+nextPass = "ck\ck_vehicles\ck_willys\data\glass_pass.rvmat";
+PixelShaderID = "Glass";
+VertexShaderID = "Glass";
+
+class Stage1
+{
+	texture = "#(ai,64,64,1)fresnelGlass()";
+	uvSource = "none";
+};
+
+class Stage2
+{
+	texture = "ck\ck_vehicles\ck_willys\data\glass_reflex.paa";
+	uvSource = "none";
+};
